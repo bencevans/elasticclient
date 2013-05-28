@@ -1,0 +1,4 @@
+elasticclient
+=============
+
+js elasticsearch client
