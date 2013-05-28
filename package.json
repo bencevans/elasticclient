@@ -1,0 +1,27 @@
+{
+  "name": "elasticclient",
+  "version": "0.0.0",
+  "description": "ElasticSearch API Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bencevans/elasticclient.git"
+  },
+  "keywords": [
+    "search",
+    "elastic",
+    "api",
+    "wrapper",
+    "ElasticSearch",
+    "query"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (http://bensbit.co.uk)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request": "~2.21.0"
+  }
+}
